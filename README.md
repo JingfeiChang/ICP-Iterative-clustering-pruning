@@ -12,4 +12,4 @@ Convolutional neural networks (CNNs) have shown excellent performance in numerou
 
 ### Experimental results
 Results on CIFAR-10
-![Table1]()
+<br>![Table1](https://github.com/JingfeiChang/ICP-Iterative-clustering-pruning/blob/main/Tables/Table1.jpg)
