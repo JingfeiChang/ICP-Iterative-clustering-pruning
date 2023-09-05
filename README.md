@@ -11,11 +11,11 @@ Convolutional neural networks (CNNs) have shown excellent performance in numerou
 ![figure1.jpg](https://github.com/JingfeiChang/ICP-Iterative-clustering-pruning/blob/main/figure1.jpg)
 
 ### Experimental results
-#### Results on CIFAR-10
+#### -Results on CIFAR-10
 <br>![Table1](https://github.com/JingfeiChang/ICP-Iterative-clustering-pruning/blob/main/Tables/Table1.jpg)
 <br>![Table2](https://github.com/JingfeiChang/ICP-Iterative-clustering-pruning/blob/main/Tables/Table2.jpg)
-#### Results on CIFAR-100
+#### -Results on CIFAR-100
 <br>![Table3](https://github.com/JingfeiChang/ICP-Iterative-clustering-pruning/blob/main/Tables/Table3.jpg)
-#### Results on ImageNet
+#### -Results on ImageNet
 <br>![Table4](https://github.com/JingfeiChang/ICP-Iterative-clustering-pruning/blob/main/Tables/Table4.jpg)
-#### Results on object detection
+#### -Results on object detection
