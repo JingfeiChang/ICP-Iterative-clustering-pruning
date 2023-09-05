@@ -1,7 +1,7 @@
 # Iterative clustering pruning (ICP)
 ### Code for the paper
 [Iterative clustering pruning for convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0950705123001363)
-<br>Chang J, Lu Y, Xue P, Xu Y, Wei Z. Iterative clustering pruning for convolutional neural networks. Knowledge-Based Systems. 2023 Apr 8;265:110386.   
+<br>Chang J, Lu Y, Xue P, Xu Y, Wei Z. Iterative clustering pruning for convolutional neural networks. Knowledge-Based Systems. 2023 Apr 8;265:110386.
 <br>https://doi.org/10.1016/j.knosys.2023.110386
 
 ### Introduction to Methods
